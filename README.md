@@ -59,6 +59,7 @@ See Moodle.
 - [abstractbrowsing.net](http://www.abstractbrowsing.net) (2014) by Rafaël Rozendaal
 - [Safebook](https://bengrosser.com/projects/safebook/) (2018) by Ben Grosser
 - [Concrete](https://generative-unfoldings.mit.edu/works/concrete/view.html) by Matt DesLauriers
+- Allison Parrish [compass poems](https://sync.abue.io/issues/190705ap_sync2_27_compasses.pdf) [read about them](https://bombmagazine.org/articles/compass-poems/) and [other works](https://portfolio.decontextualize.com/)
 
 
 ## Design
