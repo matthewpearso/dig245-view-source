@@ -53,6 +53,9 @@ See Moodle.
 
 ## Inspiration
 
+- 📚 "View Source" (chapter 2) in Critical Web Design and examples: [After Gerhard Rühm](https://omundy.github.io/critical-web-design-book/02-view-source/examples/after-ruhm.html), [Poem (Chaos)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-chaos.html), [Poem (Click)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-click.html), [Don't Be Evil)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-evil.html), [Poem (Shake)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-shake.html), [Poem (Think)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-think.html)
+- 📚 Bruce Sterling [A Short History of the Internet](https://www.internetsociety.org/internet/history-internet/short-history-of-the-internet/) (1-6) (1993)
+- 📚 Rob Larson Intro (1-12), The Flaw of Gravity (13-26) in Bit Tyrants
 - Historical examples of visual poetry like  [Gerhard Rühm](https://www.google.com/search?q=Gerhard+R%C3%BChm+concrete+poem), [Augusto de Campos](https://www.google.com/search?q=augusto+de+campos+concrete+poetry), [ Guillaume Apollinaire](https://en.wikipedia.org/wiki/Calligrammes), and other works in this collection on [UbuWeb](https://www.ubu.com/vp) 
 - [Endless Constellations: On Women in Concrete Poetry 1959–1979](https://www.google.com/search?q=Endless+Constellations%3A+On+Women+in+Concrete+Poetry+1959%E2%80%931979)
 - This [Big Data Manifesto](https://molleindustria.org/files/BIG-DATA.html) inspired by Tristan Tzara's [DADA soulève tout](https://www.moma.org/collection/works/184054?artist_id=13398&page=1&sov_referrer=artist) (1921)
@@ -60,6 +63,7 @@ See Moodle.
 - [Safebook](https://bengrosser.com/projects/safebook/) (2018) by Ben Grosser
 - [Concrete](https://generative-unfoldings.mit.edu/works/concrete/view.html) by Matt DesLauriers
 - Allison Parrish [compass poems](https://sync.abue.io/issues/190705ap_sync2_27_compasses.pdf) [read about them](https://bombmagazine.org/articles/compass-poems/) and [other works](https://portfolio.decontextualize.com/)
+- Josh On [theyrule.net](https://theyrule.net)
 
 
 ## Design
@@ -94,7 +98,7 @@ See Moodle.
 
 
 <!-- 
-=< 2022 prompts
+<= 2022 prompts
 
 1. Using an ordered list, write step by step instructions for viewing the source code of a web page in your favorite browser. Include the name of the browser.
 1. Using an unordered list, write three other things you can do with the Dev Tools.
@@ -105,7 +109,7 @@ See Moodle.
 
 
 <!--
-=< 2019 PROMPTS
+<= 2019 PROMPTS
 
 Explain how your metaphor communicates the act of looking at source code
 1. Does it still communicate your experience of being able to look “under the hood” after you now have learned to code?
@@ -116,6 +120,22 @@ Explain how your metaphor communicates the act of looking at source code
 
 
 
+
+<details>
+<summary>Past examples</summary>
+  
+- 2023
+    [Maria](https://mafajardo23.github.io/dig245-view-source/)
+    [Richard](https://aequor29.github.io/dig245-view-source/)
+    [David](https://davidmhilton.github.io/dig245-view-source/)
+    [Nam](https://namdao2508.github.io/dig245-view-source/)
+    [Riana](https://rianadoctor.github.io/dig245-view-source/)
+    [Tyler](https://tyleryandt18.github.io/dig245-view-source/)
+    [Meredith](https://merhaines.github.io/dig245-view-source/)
+    [Isabell](https://isabelra26.github.io/dig245-view-source/)
+    [Alp](https://alpnix.github.io/dig245-view-source/)
+
+</details>
 
 
 
