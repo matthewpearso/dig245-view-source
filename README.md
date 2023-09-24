@@ -53,17 +53,20 @@ See Moodle.
 
 ## Inspiration
 
-- 📚 "View Source" (chapter 2) in Critical Web Design and examples: [After Gerhard Rühm](https://omundy.github.io/critical-web-design-book/02-view-source/examples/after-ruhm.html), [Poem (Chaos)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-chaos.html), [Poem (Click)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-click.html), [Don't Be Evil)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-evil.html), [Poem (Shake)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-shake.html), [Poem (Think)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-think.html)
-- 📚 Bruce Sterling [A Short History of the Internet](https://www.internetsociety.org/internet/history-internet/short-history-of-the-internet/) (1-6) (1993)
-- 📚 Rob Larson Intro (1-12), The Flaw of Gravity (13-26) in Bit Tyrants
-- Historical examples of visual poetry like  [Gerhard Rühm](https://www.google.com/search?q=Gerhard+R%C3%BChm+concrete+poem), [Augusto de Campos](https://www.google.com/search?q=augusto+de+campos+concrete+poetry), [ Guillaume Apollinaire](https://en.wikipedia.org/wiki/Calligrammes), and other works in this collection on [UbuWeb](https://www.ubu.com/vp) 
+- 📚 "View Source" (chapter 2) in Critical Web Design + examples: [After Gerhard Rühm](https://omundy.github.io/critical-web-design-book/02-view-source/examples/after-ruhm.html), [Poem (Chaos)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-chaos.html), [Poem (Click)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-click.html), [Don't Be Evil)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-evil.html), [Poem (Shake)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-shake.html), [Poem (Think)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-think.html)
+    - 📚 First Things First [Introduction](https://www.emigre.com/Essays/Magazine/FirstThingsFirstRevisited), [1960 Manifesto](http://www.designishistory.com/1960/first-things-first/), and [2020 Manifesto](https://www.eyemagazine.com/feature/article/first-things-first-manifesto-2000)
+    - 📚 Michael Bierut “Warning: May Contain Non-Design Content” (11-13) in Seventy-nine Short Essays on Design
+    - 📚 Frank Chimero [How and Why](https://shapeofdesignbook.com/chapters/01-how-and-why/) (18-27) in [The Shape of Design](https://shapeofdesignbook.com/chapters/01-how-and-why/) (18-27)
+    - 📚 Figma [02-What is Graphic Design](https://www.figma.com/resource-library/what-is-graphic-design/) (1-9) 
+- Historical examples of visual poetry like  [Gerhard Rühm](https://www.google.com/search?q=Gerhard+R%C3%BChm+concrete+poem), [Augusto de Campos](https://www.google.com/search?q=augusto+de+campos+concrete+poetry) + [more](https://www.theguardian.com/artanddesign/gallery/2017/apr/07/masterpieces-concrete-poetry-pictures-getty-center-ian-hamilton-finlay-augusto-campos), [ Guillaume Apollinaire](https://en.wikipedia.org/wiki/Calligrammes), and other works in this collection on [UbuWeb](https://www.ubu.com/vp) 
 - [Endless Constellations: On Women in Concrete Poetry 1959–1979](https://www.google.com/search?q=Endless+Constellations%3A+On+Women+in+Concrete+Poetry+1959%E2%80%931979)
 - This [Big Data Manifesto](https://molleindustria.org/files/BIG-DATA.html) inspired by Tristan Tzara's [DADA soulève tout](https://www.moma.org/collection/works/184054?artist_id=13398&page=1&sov_referrer=artist) (1921)
-- [abstractbrowsing.net](http://www.abstractbrowsing.net) (2014) by Rafaël Rozendaal
-- [Safebook](https://bengrosser.com/projects/safebook/) (2018) by Ben Grosser
-- [Concrete](https://generative-unfoldings.mit.edu/works/concrete/view.html) by Matt DesLauriers
-- Allison Parrish [compass poems](https://sync.abue.io/issues/190705ap_sync2_27_compasses.pdf) [read about them](https://bombmagazine.org/articles/compass-poems/) and [other works](https://portfolio.decontextualize.com/)
-- Josh On [theyrule.net](https://theyrule.net)
+- [abstractbrowsing.net](http://www.abstractbrowsing.net) (2014) by Rafaël Rozendaal;
+[Safebook](https://bengrosser.com/projects/safebook/) (2018) by Ben Grosser; 
+[Concrete](https://generative-unfoldings.mit.edu/works/concrete/view.html) by Matt DesLauriers; 
+Allison Parrish [compass poems](https://sync.abue.io/issues/190705ap_sync2_27_compasses.pdf) [read about them](https://bombmagazine.org/articles/compass-poems/) and [other works](https://portfolio.decontextualize.com/);
+Josh On [theyrule.net](https://theyrule.net);
+Ruth Lin [Web Experiments](https://ruthl.in/small-web-tests)
 
 
 ## Design
@@ -141,8 +144,8 @@ Explain how your metaphor communicates the act of looking at source code
 
 ## Resources
 
-- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
-- [Mozilla Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
+- Course resources [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md), [Figma](https://github.com/omundy/dig245-critical-web-design#figma), [Bootstrap](https://github.com/omundy/dig245-critical-web-design#bootstrap)
+- [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
 
 
 
