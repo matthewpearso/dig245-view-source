@@ -77,7 +77,7 @@ See Moodle.
 
 ## Design
 
-1. Start by looking at examples for inspiration
+1. Start by looking at examples ^ for inspiration
 1. Follow the prompt in Chapter 2 of CWD to select text from a manifesto and create a wireframe for your [concrete poem](https://www.typeroom.eu/article/twenty-things-you-must-know-about-concrete-and-visual-poetry). 
 1. Your text and design should somehow reflect on concepts from the "View Source" chapter 
 1. Include an image of (or link to) your design in this repository.
