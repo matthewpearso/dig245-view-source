@@ -138,6 +138,7 @@ Explain how your metaphor communicates the act of looking at source code
     [Richard](https://aequor29.github.io/dig245-view-source/)
     [David](https://davidmhilton.github.io/dig245-view-source/)
     [Nam](https://namdao2508.github.io/dig245-view-source/)
+    [Blake](https://blakecraig25.github.io/dig245-view-source/)
     [Riana](https://rianadoctor.github.io/dig245-view-source/)
     [Tyler](https://tyleryandt18.github.io/dig245-view-source/)
     [Meredith](https://merhaines.github.io/dig245-view-source/)
