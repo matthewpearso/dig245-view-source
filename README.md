@@ -54,23 +54,41 @@ See Moodle.
 ## Context
 
 - 📚 "View Source" (chapter 2) in Critical Web Design
-    - Chapter example(s): [After Gerhard Rühm](https://omundy.github.io/critical-web-design-book/02-view-source/examples/after-ruhm.html) | [Poem (Chaos)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-chaos.html) | [Poem (Click)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-click.html) | [Don't Be Evil)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-evil.html) | [Poem (Shake)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-shake.html) | [Poem (Think)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-think.html)
-- Related articles
-    - 📚 First Things First [Introduction](https://www.emigre.com/Essays/Magazine/FirstThingsFirstRevisited), [1960 Manifesto](http://www.designishistory.com/1960/first-things-first/), and [2020 Manifesto](https://www.eyemagazine.com/feature/article/first-things-first-manifesto-2000)
-    - 📚 Michael Bierut “Warning: May Contain Non-Design Content” (11-13) in Seventy-nine Short Essays on Design (2007)
-    - 📚 Frank Chimero [How and Why](https://shapeofdesignbook.com/chapters/01-how-and-why/) (18-27) in [The Shape of Design](https://shapeofdesignbook.com/chapters/01-how-and-why/) (18-27)
-    - 📚 Figma [02-What is Graphic Design](https://www.figma.com/resource-library/what-is-graphic-design/) (1-9) 
-- Related works
-    - Historical examples of visual poetry like  [Gerhard Rühm](https://www.google.com/search?q=Gerhard+R%C3%BChm+concrete+poem), [Augusto de Campos](https://www.google.com/search?q=augusto+de+campos+concrete+poetry) + [more](https://www.theguardian.com/artanddesign/gallery/2017/apr/07/masterpieces-concrete-poetry-pictures-getty-center-ian-hamilton-finlay-augusto-campos), [ Guillaume Apollinaire](https://en.wikipedia.org/wiki/Calligrammes), and other works in this collection on [UbuWeb](https://www.ubu.com/vp) 
-    - [Endless Constellations: On Women in Concrete Poetry 1959–1979](https://www.google.com/search?q=Endless+Constellations%3A+On+Women+in+Concrete+Poetry+1959%E2%80%931979)
-    - This [Big Data Manifesto](https://molleindustria.org/files/BIG-DATA.html) inspired by Tristan Tzara's [DADA soulève tout](https://www.moma.org/collection/works/184054?artist_id=13398&page=1&sov_referrer=artist) (1921)
-    - Rafaël Rozendaal [abstractbrowsing.net](http://www.abstractbrowsing.net) (2014);
-    Ben Grosser [Safebook](https://bengrosser.com/projects/safebook/) (2018); 
-    Matt DesLauriers [Concrete](https://generative-unfoldings.mit.edu/works/concrete/view.html); 
-    Allison Parrish [Compasses](https://sync.abue.io/issues/190705ap_sync2_27_compasses.pdf) ([see also](https://bombmagazine.org/articles/compass-poems/)) and [other works](https://portfolio.decontextualize.com/);
-    Josh On [theyrule.net](https://theyrule.net);
-    Ruth Lin [Web Experiments](https://ruthl.in/small-web-tests)
-    Nick Montfort [Progress](https://thehtml.review/01/progress.html) (2022) and (Stephanie Strickland) [Sea and Spar Between](https://nickm.com/montfort_strickland/sea_and_spar_between/index.html) (2011)
+- Chapter example(s): [After Gerhard Rühm](https://omundy.github.io/critical-web-design-book/02-view-source/examples/after-ruhm.html) | [Poem (Chaos)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-chaos.html) | [Poem (Click)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-click.html) | [Don't Be Evil)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-evil.html) | [Poem (Shake)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-shake.html) | [Poem (Think)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-think.html)
+
+
+
+## Inspiration
+
+See the [Critical Web Design Index](http://omundy.github.io/critical-web-design-index/) for examples tagged with [#poetry](http://omundy.github.io/critical-web-design-index#poetry), [#visual poetry](http://omundy.github.io/critical-web-design-index#visual%20poetry), or [#text](http://omundy.github.io/critical-web-design-index#text), including...
+
+- [Big Data Manifesto](https://molleindustria.org/files/BIG-DATA.html) inspired by Tristan Tzara's [DADA soulève tout](https://www.moma.org/collection/works/184054?artist_id=13398&page=1&sov_referrer=artist) (1921)
+- Rafaël Rozendaal [abstractbrowsing.net](http://www.abstractbrowsing.net) (2014)
+- Ben Grosser [Safebook](https://bengrosser.com/projects/safebook/) (2018) 
+- Matt DesLauriers [Concrete](https://generative-unfoldings.mit.edu/works/concrete/view.html)
+- Allison Parrish [Compasses](https://sync.abue.io/issues/190705ap_sync2_27_compasses.pdf) ([see also](https://bombmagazine.org/articles/compass-poems/)) and [other works](https://portfolio.decontextualize.com/)
+- Ruth Lin [Web Experiments](https://ruthl.in/small-web-tests)
+- Nick Montfort [Progress](https://thehtml.review/01/progress.html) (2022) 
+- Nick Montfort and (Stephanie Strickland) [Sea and Spar Between](https://nickm.com/montfort_strickland/sea_and_spar_between/index.html) (2011)
+
+
+
+### Related articles
+
+- 📚 First Things First [Introduction](https://www.emigre.com/Essays/Magazine/FirstThingsFirstRevisited), [1960 Manifesto](http://www.designishistory.com/1960/first-things-first/), and [2020 Manifesto](https://www.eyemagazine.com/feature/article/first-things-first-manifesto-2000)
+- 📚 Michael Bierut “Warning: May Contain Non-Design Content” (11-13) in Seventy-nine Short Essays on Design (2007)
+- 📚 Frank Chimero [How and Why](https://shapeofdesignbook.com/chapters/01-how-and-why/) (18-27) in [The Shape of Design](https://shapeofdesignbook.com/chapters/01-how-and-why/) (18-27)
+- 📚 Figma [02-What is Graphic Design](https://www.figma.com/resource-library/what-is-graphic-design/) (1-9) 
+
+### Historical examples of visual poetry 
+
+- [Gerhard Rühm](https://www.google.com/search?q=Gerhard+R%C3%BChm+concrete+poem)
+- [Endless Constellations: On Women in Concrete Poetry 1959–1979](https://www.google.com/search?q=Endless+Constellations%3A+On+Women+in+Concrete+Poetry+1959%E2%80%931979)
+- [Augusto de Campos](https://www.google.com/search?q=augusto+de+campos+concrete+poetry) + [more](https://www.theguardian.com/artanddesign/gallery/2017/apr/07/masterpieces-concrete-poetry-pictures-getty-center-ian-hamilton-finlay-augusto-campos)
+- [Guillaume Apollinaire](https://en.wikipedia.org/wiki/Calligrammes)
+- other works in this collection on [UbuWeb](https://www.ubu.com/vp) 
+
+
 
 
 
