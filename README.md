@@ -60,7 +60,7 @@ See Moodle.
 
 ## Inspiration
 
-See the [Critical Web Design Index](http://omundy.github.io/critical-web-design-index/) for examples tagged with [#poetry](http://omundy.github.io/critical-web-design-index#poetry), [#visual poetry](http://omundy.github.io/critical-web-design-index#visual%20poetry), or [#text](http://omundy.github.io/critical-web-design-index#text), including...
+See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#poetry](https://omundy.github.io/critical-web-design-index#poetry), [#visual poetry](https://omundy.github.io/critical-web-design-index#visual%20poetry), or [#text](https://omundy.github.io/critical-web-design-index#text), including...
 
 - [Big Data Manifesto](https://molleindustria.org/files/BIG-DATA.html) inspired by Tristan Tzara's [DADA soulève tout](https://www.moma.org/collection/works/184054?artist_id=13398&page=1&sov_referrer=artist) (1921)
 - Rafaël Rozendaal [abstractbrowsing.net](http://www.abstractbrowsing.net) (2014)
