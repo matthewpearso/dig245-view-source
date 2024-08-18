@@ -44,21 +44,17 @@ See Moodle.
 
 
 
+## Concept
 
-## Setup
-
-[Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
-
-
-
-## Context
-
-- 📚 "View Source" (chapter 2) in Critical Web Design
-- Chapter example(s): [After Gerhard Rühm](https://omundy.github.io/critical-web-design-book/02-view-source/examples/after-ruhm.html) | [Poem (Chaos)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-chaos.html) | [Poem (Click)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-click.html) | [Don't Be Evil)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-evil.html) | [Poem (Shake)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-shake.html) | [Poem (Think)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-think.html)
+- 📚 "View Source" (chapter 2) in *Critical Web Design*
+- [Chapter examples](https://omundy.github.io/critical-web-design-book/#chapter-2-view-source) like: 
+[Poem (Shake)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-shake.html), 
+[Poem (Think)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-think.html), 
+[Poem (Click)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-click.html), 
+[Poem (Chaos)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-chaos.html) 
 
 
-
-## Inspiration
+#### Inspiration
 
 See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#poetry](https://omundy.github.io/critical-web-design-index#poetry), [#visual poetry](https://omundy.github.io/critical-web-design-index#visual%20poetry), or [#text](https://omundy.github.io/critical-web-design-index#text), including...
 
@@ -73,21 +69,22 @@ See the [Critical Web Design Index](https://omundy.github.io/critical-web-design
 
 
 
-### Related articles
+#### Articles
 
 - 📚 First Things First [Introduction](https://www.emigre.com/Essays/Magazine/FirstThingsFirstRevisited), [1960 Manifesto](http://www.designishistory.com/1960/first-things-first/), and [2020 Manifesto](https://www.eyemagazine.com/feature/article/first-things-first-manifesto-2000)
 - 📚 Michael Bierut “Warning: May Contain Non-Design Content” (11-13) in Seventy-nine Short Essays on Design (2007)
 - 📚 Frank Chimero [How and Why](https://shapeofdesignbook.com/chapters/01-how-and-why/) (18-27) in [The Shape of Design](https://shapeofdesignbook.com/chapters/01-how-and-why/) (18-27)
 - 📚 Figma [02-What is Graphic Design](https://www.figma.com/resource-library/what-is-graphic-design/) (1-9) 
 
-### Historical examples of visual poetry 
+
+
+#### Other examples of visual poetry 
 
 - [Gerhard Rühm](https://www.google.com/search?q=Gerhard+R%C3%BChm+concrete+poem)
 - [Endless Constellations: On Women in Concrete Poetry 1959–1979](https://www.google.com/search?q=Endless+Constellations%3A+On+Women+in+Concrete+Poetry+1959%E2%80%931979)
 - [Augusto de Campos](https://www.google.com/search?q=augusto+de+campos+concrete+poetry) + [more](https://www.theguardian.com/artanddesign/gallery/2017/apr/07/masterpieces-concrete-poetry-pictures-getty-center-ian-hamilton-finlay-augusto-campos)
 - [Guillaume Apollinaire](https://en.wikipedia.org/wiki/Calligrammes)
 - other works in this collection on [UbuWeb](https://www.ubu.com/vp) 
-
 
 
 
@@ -104,6 +101,7 @@ See the [Critical Web Design Index](https://omundy.github.io/critical-web-design
 
 ## Code
 
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 1. Use HTML, CSS, and JS to code your design in `index.html`
 1. Style your page with CSS using `<style>` tag or an external stylesheet file. 
 1. Use DevTools to inspect your page in the browser and experiment with different CSS rules to control its display. Refer back to your wireframe and the [CSS box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) documentation as needed. See also this [Chrome Dev Tools](https://www.youtube.com/watch?v=25R1Jl5P7Mw) (11:49) tutorial.
