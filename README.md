@@ -47,14 +47,16 @@ See Moodle.
 ## Concept
 
 - 📚 "View Source" (chapter 2) in *Critical Web Design*
-- [Chapter examples](https://omundy.github.io/critical-web-design-book/#chapter-2-view-source) like: 
+
+
+### Inspiration
+
+- Chapter [examples](https://omundy.github.io/critical-web-design-book/#chapter-2-view-source): 
 [Poem (Shake)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-shake.html), 
 [Poem (Think)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-think.html), 
+[After Gerhard Rühm](https://omundy.github.io/critical-web-design-book/02-view-source/examples/after-ruhm.html), 
 [Poem (Click)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-click.html), 
 [Poem (Chaos)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-chaos.html) 
-
-
-#### Inspiration
 
 See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#poetry](https://omundy.github.io/critical-web-design-index#poetry), [#visual poetry](https://omundy.github.io/critical-web-design-index#visual%20poetry), or [#text](https://omundy.github.io/critical-web-design-index#text), including...
 
@@ -69,7 +71,7 @@ See the [Critical Web Design Index](https://omundy.github.io/critical-web-design
 
 
 
-#### Articles
+### Articles
 
 - 📚 First Things First [Introduction](https://www.emigre.com/Essays/Magazine/FirstThingsFirstRevisited), [1960 Manifesto](http://www.designishistory.com/1960/first-things-first/), and [2020 Manifesto](https://www.eyemagazine.com/feature/article/first-things-first-manifesto-2000)
 - 📚 Michael Bierut “Warning: May Contain Non-Design Content” (11-13) in Seventy-nine Short Essays on Design (2007)
@@ -78,7 +80,7 @@ See the [Critical Web Design Index](https://omundy.github.io/critical-web-design
 
 
 
-#### Other examples of visual poetry 
+### Other examples of visual poetry 
 
 - [Gerhard Rühm](https://www.google.com/search?q=Gerhard+R%C3%BChm+concrete+poem)
 - [Endless Constellations: On Women in Concrete Poetry 1959–1979](https://www.google.com/search?q=Endless+Constellations%3A+On+Women+in+Concrete+Poetry+1959%E2%80%931979)
