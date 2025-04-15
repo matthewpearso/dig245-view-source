@@ -191,4 +191,4 @@ Explain how your metaphor communicates the act of looking at source code
 ![view source](assets/img/console-text-game.png)
 [google "text adventure"](https://www.google.com/search?q=text+adventure) [microsoft](https://microsoft.github.io/join-dev-design/)
 
-More at https://github.com/maeligg/console.love 
+More at https://omundy.github.io/console.love 
