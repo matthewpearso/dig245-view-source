@@ -51,14 +51,14 @@ See Moodle.
 
 ### Inspiration
 
-- Chapter [examples](https://omundy.github.io/critical-web-design-book/#chapter-2-view-source): 
-[Poem (Shake)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-shake.html), 
-[Poem (Think)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-think.html), 
-[After Gerhard Rühm](https://omundy.github.io/critical-web-design-book/02-view-source/examples/after-ruhm.html), 
-[Poem (Click)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-click.html), 
-[Poem (Chaos)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-chaos.html) 
+- Chapter [examples](https://criticalwebdesign.github.io/book/#chapter-2-view-source): 
+[Poem (Shake)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-shake.html), 
+[Poem (Think)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-think.html), 
+[After Gerhard Rühm](https://criticalwebdesign.github.io/book/02-view-source/examples/after-ruhm.html), 
+[Poem (Click)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-click.html), 
+[Poem (Chaos)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-chaos.html) 
 
-See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#poetry](https://omundy.github.io/critical-web-design-index#poetry), [#visual poetry](https://omundy.github.io/critical-web-design-index#visual%20poetry), or [#text](https://omundy.github.io/critical-web-design-index#text), including...
+See the [Critical Web Design Index](https://criticalwebdesign.github.io/index/) for examples tagged with [#poetry](https://criticalwebdesign.github.io/index#poetry), [#visual poetry](https://criticalwebdesign.github.io/index#visual-poetry), or [#text](https://criticalwebdesign.github.io/index#text), including...
 
 - [Big Data Manifesto](https://molleindustria.org/files/BIG-DATA.html) inspired by Tristan Tzara's [DADA soulève tout](https://www.moma.org/collection/works/184054?artist_id=13398&page=1&sov_referrer=artist) (1921)
 - Rafaël Rozendaal [abstractbrowsing.net](http://www.abstractbrowsing.net) (2014)
