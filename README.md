@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Design & code a concrete poem using HTML/CSS/JS. Exhibit good development practices using browser DevTools.
+Design & code a [concrete poem](https://www.theguardian.com/artanddesign/gallery/2017/apr/07/masterpieces-concrete-poetry-pictures-getty-center-ian-hamilton-finlay-augusto-campos) using HTML/CSS/JS. Exhibit good development practices using browser DevTools.
 
 <details>
 <summary>Learning Objectives, Preparation, Rubric</summary>
@@ -40,60 +40,18 @@ See Moodle.
 
 
 
-## Concept
-
-- 📚 "View Source" (chapter 2) in *Critical Web Design*
-
-
-### Inspiration
-
-- Chapter [examples](https://criticalwebdesign.github.io/book/#chapter-2-view-source): 
-[Poem (Shake)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-shake.html), 
-[Poem (Think)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-think.html), 
-[After Gerhard Rühm](https://criticalwebdesign.github.io/book/02-view-source/examples/after-ruhm.html), 
-[Poem (Click)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-click.html), 
-[Poem (Chaos)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-chaos.html) 
-
-See the [Critical Web Design Index](https://criticalwebdesign.github.io/index/) for examples tagged with [#poetry](https://criticalwebdesign.github.io/index#poetry), [#visual poetry](https://criticalwebdesign.github.io/index#visual-poetry), or [#text](https://criticalwebdesign.github.io/index#text), including...
-
-- [Big Data Manifesto](https://molleindustria.org/files/BIG-DATA.html) inspired by Tristan Tzara's [DADA soulève tout](https://www.moma.org/collection/works/184054?artist_id=13398&page=1&sov_referrer=artist) (1921)
-- Rafaël Rozendaal [abstractbrowsing.net](http://www.abstractbrowsing.net) (2014)
-- Ben Grosser [Safebook](https://bengrosser.com/projects/safebook/) (2018) 
-- Matt DesLauriers [Concrete](https://generative-unfoldings.mit.edu/works/concrete/view.html)
-- Allison Parrish [Compasses](https://sync.abue.io/issues/190705ap_sync2_27_compasses.pdf) ([see also](https://bombmagazine.org/articles/compass-poems/)) and [other works](https://portfolio.decontextualize.com/)
-- Ruth Lin [Web Experiments](https://ruthl.in/small-web-tests)
-- Nick Montfort [Progress](https://thehtml.review/01/progress.html) (2022) 
-- Nick Montfort and (Stephanie Strickland) [Sea and Spar Between](https://nickm.com/montfort_strickland/sea_and_spar_between/index.html) (2011)
-
-
-
-### Articles
-
-- 📚 First Things First [Introduction](https://www.emigre.com/Essays/Magazine/FirstThingsFirstRevisited), [1960 Manifesto](http://www.designishistory.com/1960/first-things-first/), and [2020 Manifesto](https://www.eyemagazine.com/feature/article/first-things-first-manifesto-2000)
-- 📚 Michael Bierut “Warning: May Contain Non-Design Content” (11-13) in Seventy-nine Short Essays on Design (2007)
-- 📚 Frank Chimero [How and Why](https://shapeofdesignbook.com/chapters/01-how-and-why/) (18-27) in [The Shape of Design](https://shapeofdesignbook.com/chapters/01-how-and-why/) (18-27)
-- 📚 Figma [02-What is Graphic Design](https://www.figma.com/resource-library/what-is-graphic-design/) (1-9) 
-
-
-
-### Other examples of visual poetry 
-
-- [Gerhard Rühm](https://www.google.com/search?q=Gerhard+R%C3%BChm+concrete+poem)
-- [Endless Constellations: On Women in Concrete Poetry 1959–1979](https://www.google.com/search?q=Endless+Constellations%3A+On+Women+in+Concrete+Poetry+1959%E2%80%931979)
-- [Augusto de Campos](https://www.google.com/search?q=augusto+de+campos+concrete+poetry) + [more](https://www.theguardian.com/artanddesign/gallery/2017/apr/07/masterpieces-concrete-poetry-pictures-getty-center-ian-hamilton-finlay-augusto-campos)
-- [Guillaume Apollinaire](https://en.wikipedia.org/wiki/Calligrammes)
-- other works in this collection on [UbuWeb](https://www.ubu.com/vp) 
-
-
-
-
-
 ## Design
 
-1. Start by looking at examples ^ for inspiration
-1. Follow the prompt in Chapter 2 of CWD to select text from a manifesto and create a wireframe for your [concrete poem](https://www.typeroom.eu/article/twenty-things-you-must-know-about-concrete-and-visual-poetry). 
-1. Your text and design should somehow reflect on concepts from the "View Source" chapter 
-1. Include an image of (or link to) your design in this repository.
+Follow the prompt in Chapter 2 of *Critical Web Design*,,,,
+
+1. Select a text to visualize from a [manifesto](#manifestos) or other source.
+2. Look at [inspiration](#inspiration)
+3. Create a [wireframe](https://www.figma.com/resource-library/what-is-wireframing/) for your concrete poem. 
+4. Your text and/or design should somehow reflect on concepts from the "View Source" chapter 
+5. Include an image of (or link to) your design in this repository.
+
+
+
 
 
 
@@ -144,6 +102,36 @@ Explain how your metaphor communicates the act of looking at source code
 
 
 
+
+## Resources
+
+- Course resources [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md), [Figma](https://github.com/omundy/dig245-critical-web-design#figma), [Bootstrap](https://github.com/omundy/dig245-critical-web-design#bootstrap)
+- [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
+
+
+
+
+
+
+### Inspiration
+
+- 📚 "View Source" (chapter 2) in *Critical Web Design*
+- Chapter [examples](https://criticalwebdesign.github.io/book/#chapter-2-view-source): 
+[Poem (Shake)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-shake.html), 
+[Poem (Think)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-think.html), 
+[After Gerhard Rühm](https://criticalwebdesign.github.io/book/02-view-source/examples/after-ruhm.html), 
+[Poem (Click)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-click.html), 
+[Poem (Chaos)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-chaos.html) 
+- See the [Critical Web Design Index](https://criticalwebdesign.github.io/index/) for examples tagged with [#poetry](https://criticalwebdesign.github.io/index#poetry), [#visual poetry](https://criticalwebdesign.github.io/index#visual-poetry), or [#text](https://criticalwebdesign.github.io/index#text), including...
+  - Rafaël Rozendaal [abstractbrowsing.net](http://www.abstractbrowsing.net) (2014)
+  - Ben Grosser [Safebook](https://bengrosser.com/projects/safebook/) (2018) 
+  - Matt DesLauriers [Concrete](https://generative-unfoldings.mit.edu/works/concrete/view.html)
+  - Allison Parrish [Compasses](https://sync.abue.io/issues/190705ap_sync2_27_compasses.pdf) ([see also](https://bombmagazine.org/articles/compass-poems/)) and [other works](https://portfolio.decontextualize.com/)
+  - Ruth Lin [Web Experiments](https://ruthl.in/small-web-tests)
+  - Nick Montfort [Progress](https://thehtml.review/01/progress.html) (2022) 
+  - Nick Montfort and (Stephanie Strickland) [Sea and Spar Between](https://nickm.com/montfort_strickland/sea_and_spar_between/index.html) (2011)
+
+
 <details>
 <summary>Past examples</summary>
   
@@ -163,16 +151,35 @@ Explain how your metaphor communicates the act of looking at source code
 
 
 
-## Resources
 
-- Course resources [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md), [Figma](https://github.com/omundy/dig245-critical-web-design#figma), [Bootstrap](https://github.com/omundy/dig245-critical-web-design#bootstrap)
-- [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
+### Manifestos
+
+- 📚 First Things First [Introduction](https://www.emigre.com/Essays/Magazine/FirstThingsFirstRevisited), [1960 Manifesto](http://www.designishistory.com/1960/first-things-first/), and [2020 Manifesto](https://www.eyemagazine.com/feature/article/first-things-first-manifesto-2000)
+- [Big Data Manifesto](https://molleindustria.org/files/BIG-DATA.html) inspired by Tristan Tzara's [DADA soulève tout](https://www.moma.org/collection/works/184054?artist_id=13398&page=1&sov_referrer=artist) (1921)
+- [1000manifestos.com](https://1000manifestos.com/list/)
+
+
+### Articles
+
+- 📚 Michael Bierut “Warning: May Contain Non-Design Content” (11-13) in Seventy-nine Short Essays on Design (2007)
+- 📚 Frank Chimero [How and Why](https://shapeofdesignbook.com/chapters/01-how-and-why/) (18-27) in [The Shape of Design](https://shapeofdesignbook.com/chapters/01-how-and-why/) (18-27)
+- 📚 Figma [02-What is Graphic Design](https://www.figma.com/resource-library/what-is-graphic-design/) (1-9) 
 
 
 
+### Other examples of visual poetry 
+
+- [Gerhard Rühm](https://www.google.com/search?q=Gerhard+R%C3%BChm+concrete+poem)
+- [Endless Constellations: On Women in Concrete Poetry 1959–1979](https://www.google.com/search?q=Endless+Constellations%3A+On+Women+in+Concrete+Poetry+1959%E2%80%931979)
+- [Augusto de Campos](https://www.google.com/search?q=augusto+de+campos+concrete+poetry) + [more](https://www.theguardian.com/artanddesign/gallery/2017/apr/07/masterpieces-concrete-poetry-pictures-getty-center-ian-hamilton-finlay-augusto-campos)
+- [Guillaume Apollinaire](https://en.wikipedia.org/wiki/Calligrammes)
+- other works in this collection on [UbuWeb](https://www.ubu.com/vp) 
 
 
-## Console Examples
+
+### Console Examples
+
+See: https://omundy.github.io/console.love 
 
 ![view source](assets/img/jodi-wwwwwwwww-1.png)
 ![view source](assets/img/jodi-wwwwwwwww-2.png)
@@ -187,4 +194,5 @@ Explain how your metaphor communicates the act of looking at source code
 ![view source](assets/img/console-text-game.png)
 [google "text adventure"](https://www.google.com/search?q=text+adventure) [microsoft](https://microsoft.github.io/join-dev-design/)
 
-More at https://omundy.github.io/console.love 
+
+
