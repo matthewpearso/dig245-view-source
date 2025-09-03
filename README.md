@@ -11,9 +11,10 @@
 
 Design & code a concrete poem using HTML/CSS/JS. Exhibit good development practices using browser DevTools.
 
-
 <details>
-<summary>Learning Objectives</summary>
+<summary>Learning Objectives, Preparation, Rubric</summary>
+
+### Learning Objectives
 
 Students who complete this assignment will be able to:
 
@@ -22,22 +23,17 @@ Students who complete this assignment will be able to:
 - Compare reasons and locations for using `<style>`, `<link>`, and `<script>` tags
 - Code a web page using HTML, CSS, and Javascript
 
-</details>
-
-
-<details><summary>Preparation</summary>
+### Preparation
 
 Complete the following to prepare for this assignment: 
 
 - Chapter 2 of Critical Web Design
 - Course content listed on the schedule
 
-</details>
+### Rubric
 
-
-<details>
-<summary>Rubric</summary>
 See Moodle.
+
 </details>
 
 
@@ -103,7 +99,7 @@ See the [Critical Web Design Index](https://criticalwebdesign.github.io/index/) 
 
 ## Code
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
+1. Fork this repository and clone it to your machine.
 1. Use HTML, CSS, and JS to code your design in `index.html`
 1. Style your page with CSS using `<style>` tag or an external stylesheet file. 
 1. Use DevTools to inspect your page in the browser and experiment with different CSS rules to control its display. Refer back to your wireframe and the [CSS box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) documentation as needed. See also this [Chrome Dev Tools](https://www.youtube.com/watch?v=25R1Jl5P7Mw) (11:49) tutorial.
