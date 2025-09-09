@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Design & code a [concrete poem](https://www.theguardian.com/artanddesign/gallery/2017/apr/07/masterpieces-concrete-poetry-pictures-getty-center-ian-hamilton-finlay-augusto-campos) using HTML/CSS/JS. Exhibit good development practices using browser DevTools.
+Design and code a [concrete poem](https://www.theguardian.com/artanddesign/gallery/2017/apr/07/masterpieces-concrete-poetry-pictures-getty-center-ian-hamilton-finlay-augusto-campos) using HTML/CSS/JS. Exhibit good development practices using browser DevTools.
 
 <details>
 <summary>Learning Objectives, Preparation, Rubric</summary>
@@ -42,13 +42,12 @@ See Moodle.
 
 ## Design
 
-Follow the prompt in Chapter 2 of *Critical Web Design*,,,,
+Follow the prompt in Chapter 2 of *Critical Web Design* ...
 
 1. Select a text to visualize from a [manifesto](#manifestos) or other source.
-2. Find [inspiration](#inspiration) in other works.
-3. Create a [wireframe](https://www.figma.com/resource-library/what-is-wireframing/) for your concrete poem. Then create additional designs (bring them all to class!) to improve your layout.
-4. Your text and/or design should somehow reflect on concepts from the "View Source" chapter 
-5. Include a link to your Figma design in this repository.
+1. Find [inspiration](#inspiration) in other works.
+1. Create a [wireframe](https://www.figma.com/resource-library/what-is-wireframing/) for your concrete poem. Then create additional designs (bring them all to class!) to improve your layout.
+1. Your text and/or design should somehow reflect on concepts from the "View Source" chapter 
 
 
 
@@ -105,12 +104,10 @@ Explain how your metaphor communicates the act of looking at source code
 
 ## Resources
 
+### Technology
+
 - Course resources [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md), [Figma](https://github.com/omundy/dig245-critical-web-design#figma), [Bootstrap](https://github.com/omundy/dig245-critical-web-design#bootstrap)
 - [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
-
-
-
-
 
 
 ### Inspiration
@@ -122,7 +119,7 @@ Explain how your metaphor communicates the act of looking at source code
 [After Gerhard Rühm](https://criticalwebdesign.github.io/book/02-view-source/examples/after-ruhm.html), 
 [Poem (Click)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-click.html), 
 [Poem (Chaos)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-chaos.html) 
-- See the [Critical Web Design Index](https://criticalwebdesign.github.io/index/) for examples tagged with [#poetry](https://criticalwebdesign.github.io/index#poetry), [#visual poetry](https://criticalwebdesign.github.io/index#visual-poetry), or [#text](https://criticalwebdesign.github.io/index#text), including...
+- Related projects (and tags [#poetry](https://criticalwebdesign.github.io/index#poetry) [#visual poetry](https://criticalwebdesign.github.io/index#visual-poetry) [#text](https://criticalwebdesign.github.io/index#text)) in the [Critical Web Design Index](https://criticalwebdesign.github.io/index/)...
   - Rafaël Rozendaal [abstractbrowsing.net](http://www.abstractbrowsing.net) (2014)
   - Ben Grosser [Safebook](https://bengrosser.com/projects/safebook/) (2018) 
   - Matt DesLauriers [Concrete](https://generative-unfoldings.mit.edu/works/concrete/view.html)
@@ -131,23 +128,6 @@ Explain how your metaphor communicates the act of looking at source code
   - Nick Montfort [Progress](https://thehtml.review/01/progress.html) (2022) 
   - Nick Montfort and (Stephanie Strickland) [Sea and Spar Between](https://nickm.com/montfort_strickland/sea_and_spar_between/index.html) (2011)
 
-
-<details>
-<summary>Past examples</summary>
-  
-- 2023
-    [Maria](https://mafajardo23.github.io/dig245-view-source/)
-    [Richard](https://aequor29.github.io/dig245-view-source/)
-    [David](https://davidmhilton.github.io/dig245-view-source/)
-    [Nam](https://namdao2508.github.io/dig245-view-source/)
-    [Blake](https://blakecraig25.github.io/dig245-view-source/)
-    [Riana](https://rianadoctor.github.io/dig245-view-source/)
-    [Tyler](https://tyleryandt18.github.io/dig245-view-source/)
-    [Meredith](https://merhaines.github.io/dig245-view-source/)
-    [Isabell](https://isabelra26.github.io/dig245-view-source/)
-    [Alp](https://alpnix.github.io/dig245-view-source/)
-
-</details>
 
 
 
@@ -195,4 +175,21 @@ See: https://omundy.github.io/console.love
 [google "text adventure"](https://www.google.com/search?q=text+adventure) [microsoft](https://microsoft.github.io/join-dev-design/)
 
 
+
+<details>
+<summary>Past examples</summary>
+  
+- 2023
+    [Maria](https://mafajardo23.github.io/dig245-view-source/)
+    [Richard](https://aequor29.github.io/dig245-view-source/)
+    [David](https://davidmhilton.github.io/dig245-view-source/)
+    [Nam](https://namdao2508.github.io/dig245-view-source/)
+    [Blake](https://blakecraig25.github.io/dig245-view-source/)
+    [Riana](https://rianadoctor.github.io/dig245-view-source/)
+    [Tyler](https://tyleryandt18.github.io/dig245-view-source/)
+    [Meredith](https://merhaines.github.io/dig245-view-source/)
+    [Isabell](https://isabelra26.github.io/dig245-view-source/)
+    [Alp](https://alpnix.github.io/dig245-view-source/)
+
+</details>
 
