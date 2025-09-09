@@ -45,10 +45,10 @@ See Moodle.
 Follow the prompt in Chapter 2 of *Critical Web Design*,,,,
 
 1. Select a text to visualize from a [manifesto](#manifestos) or other source.
-2. Look at [inspiration](#inspiration)
-3. Create a [wireframe](https://www.figma.com/resource-library/what-is-wireframing/) for your concrete poem. 
+2. Find [inspiration](#inspiration) in other works.
+3. Create a [wireframe](https://www.figma.com/resource-library/what-is-wireframing/) for your concrete poem. Then create additional designs (bring them all to class!) to improve your layout.
 4. Your text and/or design should somehow reflect on concepts from the "View Source" chapter 
-5. Include an image of (or link to) your design in this repository.
+5. Include a link to your Figma design in this repository.
 
 
 
