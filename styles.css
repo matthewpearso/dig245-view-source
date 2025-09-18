@@ -4,6 +4,13 @@
     font-size: larger;
 }
 
+.title{
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
 .keep-space{
     white-space: pre;
 }
