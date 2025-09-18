@@ -1,0 +1,9 @@
+.default{
+    text-align: center;
+    color: white;
+    font-size: larger;
+}
+
+.keep-space{
+    white-space: pre;
+}
